@@ -6,7 +6,7 @@ _Improving a website's accessibilty for a fictional company 'Horiseon'_
 
 This repo was made for making a website available to a wider audience in line with accessiblity standards. By adding semantic elements, it is now more readable to web browsers, thereby increasing the site's SEO value. In addition I have consolidated the css selectors (following the DRY principle), and added comments, to make further coding changes easier.
 
-Even though the website itself looks exactly the same, it should now be more accessible, and the code easier to read for future developers.
+_Note: even though the website itself looks exactly the same, it should now be more accessible, and the code easier to read for future developers._
 
 ## Usage
 
@@ -36,9 +36,9 @@ _Screen readers can now use this website_
 
 ![Screenshot](horiseon-screenshot.jpg)
 
-## Credits
+## The site
 
-N/A
+This site can at (https://liamjameswatson.github.io/horiseon-website/#social-media-marketing)
 
 ## License
 
