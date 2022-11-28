@@ -36,7 +36,7 @@ _Screen readers can now use this website_
 
 ![Screenshot](horiseon-screenshot.jpg)
 
-## The site
+## The website
 
 This site can at (https://liamjameswatson.github.io/horiseon-website/#social-media-marketing)
 
