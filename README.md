@@ -1,2 +1,3 @@
 # horiseon-website
-improving a website's accessibility
+
+Improving a website's accessibilty
