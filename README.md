@@ -38,7 +38,7 @@ _Screen readers can now use this website_
 
 ## The website
 
-This site can at (https://liamjameswatson.github.io/horiseon-website/#social-media-marketing)
+This site can at (https://liamjameswatson.github.io/horiseon-website/)
 
 ## License
 
