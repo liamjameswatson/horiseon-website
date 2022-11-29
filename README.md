@@ -42,4 +42,4 @@ This site can at <https://liamjameswatson.github.io/horiseon-website/>
 
 ## License
 
-MIT License (Please refer to [LICENSE](LICENSE)in the repo.)
+MIT License (Please refer to [LICENSE](LICENSE) in the repo.)
